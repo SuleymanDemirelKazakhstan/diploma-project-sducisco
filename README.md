@@ -71,7 +71,7 @@ We will have following pages:
 
 ## Sitemap, Page descriptions
 
-*Display sitemap here*
+![alt text](https://raw.githubusercontent.com/SuleymanDemirelKazakhstan/diploma-project-sducisco/29b9ca2d1c628c8d9fbcdd24e811bafdc3a3441f/image.png)
 
 ## Non-Functional requirements
  + Target audience : SDU, pupils 
