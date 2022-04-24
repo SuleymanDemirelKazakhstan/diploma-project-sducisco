@@ -83,7 +83,7 @@ We will have following pages:
 + We may not arrive on time for various reasons
 
 ## Mockups, Wireframes
-![alt text]()
+![alt text](https://github.com/SuleymanDemirelKazakhstan/diploma-project-sducisco/blob/main/image.png)
 
 ## Future iterations
 *In the future , we will continue to develop our website . Add new materials and features for the convenience of our users.*
