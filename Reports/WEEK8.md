@@ -9,3 +9,4 @@
 ![image](https://user-images.githubusercontent.com/78099157/166157690-ab041261-f6f0-4d3a-9544-07f5b99f4415.png)
 
 # Yersultan Amangeldi
+![image](https://user-images.githubusercontent.com/47381215/166236362-d722e619-9406-4f87-907e-db569e00fc04.png)
