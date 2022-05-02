@@ -4,4 +4,5 @@
 ![image](https://user-images.githubusercontent.com/78099157/166158265-a9152431-b228-4c6f-933c-fb6bcdf49801.png)
 
 # Bekzat Seraliyev
+Link for code https://github.com/bseraliev/diploma
 # Yersultan Amangeldi

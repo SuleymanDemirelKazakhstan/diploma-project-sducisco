@@ -4,6 +4,8 @@
 ![image](https://user-images.githubusercontent.com/78099157/166157939-ace597ed-22eb-45b8-835d-9af17918b4e9.png)
 
 #	Bekzat Seraliyev
+Made Lab page
+Link for code https://github.com/bseraliev/diploma
 # Yersultan Amangeldi
 ![image](https://user-images.githubusercontent.com/47381215/166237123-9d3ca681-ffca-4161-bba6-457f792dca2b.png)
 
