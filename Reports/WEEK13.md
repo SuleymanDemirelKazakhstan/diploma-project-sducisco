@@ -5,3 +5,4 @@
 
 # Bekzat Seraliyev
 # Yersultan Amangeldi
+![image](https://user-images.githubusercontent.com/47381215/166289919-e2e36aac-ea7d-498b-8b73-33dbfca0e470.png)
