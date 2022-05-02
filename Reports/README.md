@@ -12,5 +12,6 @@
 |Week #11|PM report. Weekly meeting with members.Testing|Create design in figma for Test web page, implement created design using HTML5,CSS3,Js,Jquery and connect with backend|write CRUD methods|
 |Week #12|PM report. Weekly meeting with members.Testing|Create design in figma for profile web page, implement created design using HTML5,CSS3,Js,Jquery and connect with backend|Working on other page|
 |Week #13|PM report. Weekly meeting with members.Cheaking the work each members.|Testing, debugging, improving existing design, adding additional functionality|Project implements|
-|Week #14|PM report. Weekly meeting with members|Testing, debugging, improving existing design, adding additional functionality|Projectimplements|
+|Week #14|PM report. Weekly meeting with members|Testing, debugging, improving existing design, adding additional functionality|Project
+implements|
 |Week #15|Final testing|Project defense|Project defense|
