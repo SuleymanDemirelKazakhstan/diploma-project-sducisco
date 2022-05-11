@@ -6,5 +6,6 @@
 # Bekzat Seraliyev
 Link for code https://github.com/bseraliev/diploma
 # Yersultan Amangeldi
+Spring Data, связи таблиц @ManyToOne, @ManyToMany, testing
 ![image](https://user-images.githubusercontent.com/47381215/167789732-ab9eeae9-4ff4-4471-814d-a2f855e046ea.png)
 
