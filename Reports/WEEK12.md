@@ -6,5 +6,6 @@
 # Bekzat Seraliyev
 Link for code https://github.com/bseraliev/diploma
 # Yersultan Amangeldi
+Adding spring security and giving roles
 ![image](https://user-images.githubusercontent.com/47381215/166237348-e799f248-1903-4ff8-bc99-df95b83ad940.png)
 
